@@ -1,0 +1,6 @@
+{
+  "name": "Live Color Finder",
+  "description": "Real-time camera color picker and CIELAB color finder with live magnified loupe and color isolation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
